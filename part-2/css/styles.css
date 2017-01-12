@@ -19,6 +19,7 @@ i {
 
 .film {
   width: 80%;
+  max-width: 600px;a
   margin: 40px auto;
   border: 1px solid #ccc;
   padding: 1em;
